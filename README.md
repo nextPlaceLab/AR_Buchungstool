@@ -31,10 +31,10 @@ aufgebaut werden.
 
 Verwendete Grasshopper Plugins:
 
-Pufferfish (austauschbar)
-ShapeDiver (austauschbar)
-Lunchbox (austauschbar)
-Fologram (wesentlich)
+- Pufferfish (austauschbar)
+- ShapeDiver (austauschbar)
+- Lunchbox (austauschbar)
+- Fologram (wesentlich)
 
 Zur besseren Nachverfolgung werden zwei aufgedruckte QR-Codes empfohlen (siehe auch Fologram Dokumentation).
 
